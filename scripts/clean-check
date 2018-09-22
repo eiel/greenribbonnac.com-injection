@@ -2,9 +2,10 @@
 
 set -ev
 
-STATUS=`git clean -n`
+STATUS=`git status -s`
 
 if [ x"${STATUS}" != x ]
 then
+  git status
   false
 fi
