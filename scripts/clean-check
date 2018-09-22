@@ -6,5 +6,6 @@ STATUS=`git clean -n`
 
 if [ x"${STATUS}" != x ]
 then
+  git status
   false
 fi
