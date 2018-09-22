@@ -1,5 +1,7 @@
 # greenribbonnac.com Injection
 
+[![CodeFactor](https://www.codefactor.io/repository/github/eiel/greenribbonnac.com-injection/badge)](https://www.codefactor.io/repository/github/eiel/greenribbonnac.com-injection)
+
 グリーンリボン推進協会に挿入するCSSやJavaScriptを管理するリポジトリ
 
 # インストール
