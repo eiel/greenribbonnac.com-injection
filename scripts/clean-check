@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -ev
+
+STATUS=`git clean -n`
+
+if [ x"${STATUS}" != x ]
+then
+  false
+fi
