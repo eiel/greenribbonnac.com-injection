@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -ev
+
+if [[ x`git clean -n` != x ]]
+then
+  false
+fi
