@@ -9,7 +9,8 @@
   "scripts": {
     "start": "webpack-dev-server",
     "test": "true",
-    "build": "webpack"
+    "build": "webpack",
+    "lint": "eslint src"
   },
   "repository": {
     "type": "git",
