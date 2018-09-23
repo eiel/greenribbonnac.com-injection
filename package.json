@@ -12,7 +12,8 @@
     "build": "webpack",
     "lint:flow": "flow",
     "lint:eslint": "eslint src",
-    "lint": "npm run lint:eslint && npm run lint:flow"
+    "lint:style": "stylelint **/*.css",
+    "lint": "npm run lint:style && npm run lint:eslint && npm run lint:flow"
   },
   "repository": {
     "type": "git",
