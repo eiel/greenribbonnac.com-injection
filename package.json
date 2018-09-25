@@ -47,7 +47,7 @@
     "prettier": "1.14.3",
     "stylelint": "9.5.0",
     "stylelint-config-recommended": "2.1.0",
-    "webpack": "4.19.1",
+    "webpack": "4.20.1",
     "webpack-cli": "3.1.1",
     "webpack-dev-server": "3.1.9"
   }
