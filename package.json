@@ -33,7 +33,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "9.0.0",
     "babel-jest": "23.6.0",
-    "babel-loader": "^8.0.2",
+    "babel-loader": "8.0.2",
     "eslint": "5.6.0",
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-config-prettier": "3.1.0",
@@ -47,8 +47,8 @@
     "prettier": "1.14.3",
     "stylelint": "9.5.0",
     "stylelint-config-recommended": "2.1.0",
-    "webpack": "4.19.1",
+    "webpack": "4.20.1",
     "webpack-cli": "3.1.1",
-    "webpack-dev-server": "3.1.8"
+    "webpack-dev-server": "3.1.9"
   }
 }
