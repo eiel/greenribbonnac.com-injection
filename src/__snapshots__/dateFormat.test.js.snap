@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dateFormat 1`] = `"10月1日(月)"`;
