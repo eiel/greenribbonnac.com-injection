@@ -17,6 +17,7 @@ const rssSummary = ({ document, selector, url }: Options) => {
     const children = Array.from(items)
       .map(fromElement)
       .map(itemRender)
+      .slice(0, 5)
       .join("");
     Array.from(document.querySelectorAll(selector)).forEach(elem => {
       // eslint-disable-next-line no-param-reassign
