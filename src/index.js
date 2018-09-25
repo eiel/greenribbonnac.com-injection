@@ -1,2 +1,6 @@
 // @flow strict
-console.log("start green ribbon nac com injection");
+import rssSummary from "./rssSummary";
+
+const url = "/rss/blog/";
+const selector = ".news";
+rssSummary({ document, selector, url });
