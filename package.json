@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/eiel/greenribbonnac.com-injection#readme",
   "devDependencies": {
-    "@babel/cli": "7.5.0",
+    "@babel/cli": "7.12.0",
     "@babel/core": "7.5.0",
     "@babel/preset-env": "7.5.0",
     "@babel/preset-flow": "7.0.0",
@@ -45,10 +45,10 @@
     "html-webpack-plugin": "3.2.0",
     "jest": "24.8.0",
     "prettier": "1.18.2",
-    "stylelint": "10.1.0",
+    "stylelint": "13.0.0",
     "stylelint-config-recommended": "2.2.0",
     "webpack": "4.35.2",
     "webpack-cli": "3.3.4",
-    "webpack-dev-server": "3.7.2"
+    "webpack-dev-server": "4.0.0"
   }
 }
