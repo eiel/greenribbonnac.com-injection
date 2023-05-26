@@ -27,8 +27,8 @@
   "homepage": "https://github.com/eiel/greenribbonnac.com-injection#readme",
   "devDependencies": {
     "@babel/cli": "7.21.5",
-    "@babel/core": "7.21.8",
-    "@babel/preset-env": "7.21.5",
+    "@babel/core": "7.22.1",
+    "@babel/preset-env": "7.22.2",
     "@babel/preset-flow": "7.21.4",
     "babel-core": "7.0.0-bridge.0",
     "@babel/eslint-parser": "7.21.8",
